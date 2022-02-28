@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2022-02-28T16:22:49.443-06:00
+  initializedAtString: 2022-02-28T16:22:49.443-06:00
+  log:
+  - commitID: 1abd8e4a4b92adc05c2cdff53a0dfb12bec900dd
+    mergeA: 
+    mergeB: 
+    authorName: Fieldmouse830
+    authorEmail: 61613200+Fieldmouse830@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Initial commit
+    description: 
+    timeString: 2022-02-01T13:45:28.000-06:00
+    commitTimeString: 2022-02-01T13:45:28.000-06:00
+    changes:
+    - path: .gitignore
+      fullPath: D:\Unity\Maze\.gitignore
+      projectPath: ..\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: README.md
+      fullPath: D:\Unity\Maze\README.md
+      projectPath: ..\README.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
